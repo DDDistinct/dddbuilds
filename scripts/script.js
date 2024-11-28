@@ -12,11 +12,11 @@ function calculate() {
   const amountInputValue = parseFloat(amountInput.value);
   const percentageInputValue = parseFloat(percentageInput.value);
 
-  //   //Validate
-  //   if (isNaN(amountInputValue) || percentageInputValue) {
-  //     alert("Please enter a number, bui!");
-  //     return;
-  //   }
+  //Validate
+  if (isNaN(amountInputValue) || isNaN(percentageInputValue)) {
+    alert("Please enter a valid number, buuui!");
+    return;
+  }
 
   //Calculation
   const percentageAmountResultVal =
