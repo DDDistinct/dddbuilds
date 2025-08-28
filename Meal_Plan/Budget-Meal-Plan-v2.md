@@ -1,3 +1,12 @@
+| Day # | Meal Image | Meal Name | Servings | Ingredients | Prep Steps | Prep Time | Nutritional Info | Cost |
+|-------|------------|-----------|----------|-------------|------------|-----------|------------------|------|
+| 1 | [![Ginisang Sayote with Egg](https://www.kawalingpinoy.com/wp-content/uploads/2018/11/chayote-egg-stir-fry-2-150x150.jpg)](https://www.kawalingpinoy.com/chayote-and-egg-stir-fry/) | Ginisang Sayote with Egg | 2 | Chayote, eggs, garlic, onion, salt, oil | Sauté aromatics, add chayote, stir in eggs until set | 20 min | 220 kcal · 9 g P · 15 g C · 12 g F | ₱85 |
+| 1 | [![Chicken Adobo](https://thedomesticman.com/wp-content/uploads/2018/09/chicken-adobo-150x150.jpg)](https://thedomesticman.com/2018/09/25/chicken-adobo-filipino-stewed-chicken/) | Chicken Adobo | 4 | Chicken, soy sauce, vinegar, garlic, peppercorns, bay leaves | Marinate chicken, simmer with marinade until tender | 45 min | 410 kcal · 28 g P · 5 g C · 30 g F | ₱220 |
+| 2 | [![Pinakbet](https://www.kawalingpinoy.com/wp-content/uploads/2013/02/pinakbet-150x150.jpg)](https://www.kawalingpinoy.com/pinakbet/) | Pinakbet | 3 | Mixed vegetables, shrimp paste, garlic, onion, tomato | Sauté aromatics, add shrimp paste, toss vegetables until tender | 35 min | 250 kcal · 8 g P · 35 g C · 9 g F | ₱140 |
+| 2 | [![Beef Tapa](https://www.kawalingpinoy.com/wp-content/uploads/2013/02/beef-tapa-150x150.jpg)](https://www.kawalingpinoy.com/filipino-beef-tapa/) | Beef Tapa | 3 | Beef sirloin, soy sauce, calamansi juice, garlic, sugar | Marinate beef, pan‑fry until browned | 30 min | 480 kcal · 35 g P · 6 g C · 34 g F | ₱260 |
+
+
+
 ## Meal_Plan
 
 | Day # | Meal Image | Meal Name | Servings |
