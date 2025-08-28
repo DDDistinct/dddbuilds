@@ -1,3 +1,16 @@
+## Meal_Plan
+
+| Day # | Meal Image | Meal Name | Servings |
+|-------|------------|-----------|----------|
+| 1 | [![Ginisang Sayote with Egg](https://www.kawalingpinoy.com/wp-content/uploads/2018/09/chayote-and-egg-stir-fry-1.jpg)](https://www.kawalingpinoy.com/chayote-and-egg-stir-fry/) | [Ginisang Sayote with Egg](https://www.kawalingpinoy.com/chayote-and-egg-stir-fry/) | 2 |
+|   | [![Chicken Adobo](https://www.seriouseats.com/thmb/3JvQ0J6Zf4yK7y8lqZb0uYw1uXo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20211018-chicken-adobo-vicky-wasik-seriouseats-12-bb2c1a0b6b0b4b0f8b1a6b2f4c6a6b2f.jpg)](https://www.seriouseats.com/filipino-style-chicken-adobo-recipe) | [Chicken Adobo](https://www.seriouseats.com/filipino-style-chicken-adobo-recipe) | 4 |
+| 2 | [![Pinakbet](https://www.kawalingpinoy.com/wp-content/uploads/2013/02/pinakbet-1.jpg)](https://www.kawalingpinoy.com/pinakbet/) | [Pinakbet](https://www.kawalingpinoy.com/pinakbet/) | 3 |
+|   | [![Beef Tapa](https://www.kawalingpinoy.com/wp-content/uploads/2018/09/beef-tapa-1.jpg)](https://www.kawalingpinoy.com/filipino-beef-tapa/) | [Beef Tapa](https://www.kawalingpinoy.com/filipino-beef-tapa/) | 3 |
+
+
+
+
+
 | Meal Name | Sample Image |
 | :--- | :--- |
 | **Pancit Canton with Egg** | [![Pancit Canton with Egg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAVNm-dradFihZebCp2Lg9fYNeEcKk1z9BoN52sa5hbv_IUC3gNs8ppk&s=10)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAVNm-dradFihZebCp2Lg9fYNeEcKk1z9BoN52sa5hbv_IUC3gNs8ppk&s=10) |
