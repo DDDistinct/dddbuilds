@@ -83,7 +83,3 @@
 | Bay leaf | small pack | ₱10 |
 
 **Total:** ₱988 — under budget by ₱12
-
----
-
-*End of Markdown file (Part 2).*
