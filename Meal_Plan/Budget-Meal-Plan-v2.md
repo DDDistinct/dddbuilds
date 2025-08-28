@@ -6,7 +6,7 @@
 
 | Day # | Meal Name | Ingredients Needed | Cost Breakdown (PHP) | Total Meal Cost (PHP) | Instructions | Prep Time | Nutritional Information | Sample Image |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Day 1** | **Breakfast: Scrambled Eggs with Rice** | 4 eggs, 2 cups cooked rice, 1 tbsp canola oil, salt, pepper | Eggs: ₱16.00 (₱4.00/pc), Rice: ₱10.00 (estimate), Canola Oil: ₱5.00 (estimate), Salt/Pepper: ₱2.00 (estimate) | ₱33.00 | 1. Beat eggs with a pinch of salt and pepper. 2. Heat oil in a pan over medium heat. 3. Pour in eggs and scramble until cooked through. 4. Serve with cooked rice. | 10 mins | Calories: 450, Protein: 25g, Carbs: 50g, Fat: 18g. Note: This is a basic estimate. | [![Breakfast: Scrambled Eggs with Rice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiYsmB8WhsfO1TcvELYsSZchsMj7YiQFeCKJZxcX8ORYeVR58EvX_AZQ&s=10) |
+| **Day 1** | **Breakfast: Scrambled Eggs with Rice** | 4 eggs, 2 cups cooked rice, 1 tbsp canola oil, salt, pepper | Eggs: ₱16.00 (₱4.00/pc), Rice: ₱10.00 (estimate), Canola Oil: ₱5.00 (estimate), Salt/Pepper: ₱2.00 (estimate) | ₱33.00 | 1. Beat eggs with a pinch of salt and pepper. 2. Heat oil in a pan over medium heat. 3. Pour in eggs and scramble until cooked through. 4. Serve with cooked rice. | 10 mins | Calories: 450, Protein: 25g, Carbs: 50g, Fat: 18g. Note: This is a basic estimate. | ![Breakfast: Scrambled Eggs with Rice](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaiYsmB8WhsfO1TcvELYsSZchsMj7YiQFeCKJZxcX8ORYeVR58EvX_AZQ&s=10) |
 
 
 
