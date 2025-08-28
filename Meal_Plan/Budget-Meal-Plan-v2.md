@@ -2,6 +2,11 @@
 | :--- | :--- |
 | **Pancit Canton with Egg** | [![Pancit Canton with Egg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAVNm-dradFihZebCp2Lg9fYNeEcKk1z9BoN52sa5hbv_IUC3gNs8ppk&s=10)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAVNm-dradFihZebCp2Lg9fYNeEcKk1z9BoN52sa5hbv_IUC3gNs8ppk&s=10) |
 
+| Day # | Meal Name | Ingredients Needed | Cost Breakdown (PHP) | Total Meal Cost (PHP) | Instructions | Prep Time | Nutritional Information | Sample Image |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Day 1** | **Filipino Breakfast Plate** | 1 cup garlic fried rice, 1 sunny‑side up egg, 3 slices longganisa, 3 tomato slices, 1 tsp cooking oil, pinch of fried garlic bits, salt | Rice: ₱12 (₱12/cup, estimate), Egg: ₱6 (₱6/pc), Longganisa: ₱30 (₱10/slice, estimate), Tomato: ₱6 (₱2/slice), Oil: ₱2, Fried garlic bits/salt: ₱1 | ₱57 | 1. Cook rice; stir‑fry with oil and garlic bits. 2. Pan‑fry longganisa until browned. 3. Fry egg sunny‑side up. 4. Plate rice, egg, longganisa, and fresh tomato slices together. | 15 mins | Calories: ~520 kcal; Protein: 20g; Carbs: 55g; Fat: 22g | ![Filipino Breakfast Plate](https://images.unsplash.com/photo-1604908177522-dc6a7b27bdb2) |
+
+
 | | (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz-8F2Q4G8QY2V5y0-sY9e1bB5L7vXp7L8kQ&s)
 
 | Day # | Meal Name | Ingredients Needed | Cost Breakdown (PHP) | Total Meal Cost (PHP) | Instructions | Prep Time | Nutritional Information | Sample Image |
